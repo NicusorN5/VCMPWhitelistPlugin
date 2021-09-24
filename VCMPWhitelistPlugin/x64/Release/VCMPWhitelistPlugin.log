@@ -1,0 +1,8 @@
+﻿  GetLocalIP.cpp
+  Main.cpp
+  Whitelist.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 152 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  VCMPWhitelistPlugin.vcxproj -> C:\Users\NicusorN5\Documents\GitHub\VCMPWhitelistPlugin\VCMPWhitelistPlugin\x64\Release\VCMPWhitelistPlugin.dll
