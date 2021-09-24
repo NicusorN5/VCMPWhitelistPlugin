@@ -1,0 +1,9 @@
+﻿  Main.cpp
+  Whitelist.cpp
+     Creating library C:\Users\NicusorN5\source\repos\VCMPWhitelistPlugin\Release\VCMPWhitelistPlugin.lib and object C:\Users\NicusorN5\source\repos\VCMPWhitelistPlugin\Release\VCMPWhitelistPlugin.exp
+  Generating code
+  160 of 237 functions (67.5%) were compiled, the rest were copied from previous compilation.
+    89 functions were new in current compilation
+    18 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  VCMPWhitelistPlugin.vcxproj -> C:\Users\NicusorN5\source\repos\VCMPWhitelistPlugin\Release\VCMPWhitelistPlugin.dll

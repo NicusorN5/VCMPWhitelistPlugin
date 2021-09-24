@@ -1,0 +1,2 @@
+C:\Users\NicusorN5\source\repos\VCMPWhitelistPlugin\Debug\VCMPWhitelistPlugin.dll
+C:\Users\NicusorN5\source\repos\VCMPWhitelistPlugin\Debug\VCMPWhitelistPlugin.pdb
